@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yeghishe Hovhannisyan @yeghishehov, I'm React Deweloper
-- 👀 I’m interested in web development, architecture building, game development, etc.
-- 🌱 I’m currently learning SSR, GraphQL, and Unreal Engine
+- 👋 Hi, I’m Yeghishe Hovhannisyan @yeghishehov, I'm Software Engineer
+- 👀 I’m interested in web development, application architecture building, game development, etc.
+- 🌱 I’m currently learning game development with Unreal Engine
 - 📫 How to reach me https://www.linkedin.com/in/yeghishe-hovhannisyan-9644b9147/
 
 <!---
